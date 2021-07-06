@@ -59,7 +59,7 @@ padding-top: 40px;
     padding-left: 5%;
     padding-right: 5%;
     display: flex;
-    background-image: url("images/shapes/about-bg.jpg");
+    background-image: url("images/shapes/about-bg.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -220,6 +220,8 @@ justify-content: center;
 .conunter3{
     width: 33.333%;
 }
+
+
 footer{
     background-color:#0B0D17;
 }
